@@ -176,9 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**CB Harsha Vardhan**
-
-Project Link: [https://github.com/Harsha-Vardhan2005/biomedical-signal-analysis](https://github.com/Harsha-Vardhan2005/biomedical-signal-analysis)
+**Yandra Bhasith Sai Reddy**
 
 ---
 
